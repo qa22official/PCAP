@@ -1,0 +1,21 @@
+# Build outputs
+*.exe
+*.obj
+*.o
+*.pdb
+
+# Runtime binaries
+*.dll
+
+# Logs / generated runtime files
+packet_log.txt
+packet_stats.txt
+
+# Npcap SDK extracted/downloaded artifacts
+npcap-sdk.zip
+docs/
+Examples-pcap/
+Examples-remote/
+Include/
+Lib/
+Npcap_Guide.html
